@@ -1,0 +1,5 @@
+server:
+  port: 6230
+spring:
+  application:
+    name: plat-service
