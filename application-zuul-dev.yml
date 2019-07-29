@@ -7,6 +7,6 @@ zuul:
   ignoredServices: '*'
   routes:
     plat:
-      path: /plat/** #平台服务的请求路径
+      path: /plat/** 
       serviceId: plat-service
-  prefix: /services #请求前缀
+  prefix: /services 
