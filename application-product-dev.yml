@@ -3,3 +3,8 @@ server:
 spring:
   application:
     name: product-service
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql:///aigou-product?userUnicode=true&characterEncoding=utf8
+    username: root
+    password: 123456
