@@ -9,7 +9,7 @@ zuul:
     plat:
       path: /plat/** 
       serviceId: plat-service
-    plat:
+    product:
       path: /product/** 
       serviceId: product-service
   prefix: /services #请求前缀
