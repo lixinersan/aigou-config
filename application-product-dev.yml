@@ -1,0 +1,5 @@
+server:
+  port: 6232
+spring:
+  application:
+    name: product-service
