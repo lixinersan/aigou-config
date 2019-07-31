@@ -13,4 +13,4 @@ zuul:
       plat:
       path: /product/** 
       serviceId: product-service
-  prefix: /services #ÇëÇóÇ°×º
+  prefix: /services #è¯·æ±‚å‰ç¼€
