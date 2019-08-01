@@ -1,0 +1,6 @@
+server:
+  port: 3323
+spring:
+  application:
+    name: common-service
+
