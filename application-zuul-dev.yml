@@ -12,4 +12,8 @@ zuul:
     product:
       path: /product/** 
       serviceId: product-service
+    common:
+      path: /common/** 
+      serviceId: common-service
   prefix: /common #请求前缀
+
